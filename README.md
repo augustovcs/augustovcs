@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I specialize in building robust and scalable applications using:<br>• C# & .NET Core<br>• Blazor & MAUI (cross-platform UI & internal tooling)<br>• MySQL (database architecture & optimization)<br>• Python (automation & data manipulation)<br><br>🔧 I love working behind the scenes — crafting APIs, managing data flow, and designing solid system logic.<br><br>🚀 Currently building tools that boost productivity and bring real value to users.<br><br>🧠 Always learning. Always building. Always shipping.<br><br>📬 Let’s connect and create something meaningful!
+💡 I specialize in building robust and scalable applications using:<br>• C# & .NET Core<br>• ASP.NET & MAUI (cross-platform UI & internal tooling)<br>• MySQL (database architecture & optimization)<br>• Python (automation & data manipulation)<br><br>🔧 I love working behind the scenes — crafting APIs, managing data flow, and designing solid system logic.<br><br>🚀 Currently building tools that boost productivity and bring real value to users.<br><br>🧠 Always learning. Always building. Always shipping.<br><br>📬 Let’s connect and create something meaningful!
 
 
 ## 🌐 Socials:
