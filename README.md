@@ -1,5 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/382493c2-e00d-4b76-8306-e0e2b9ade345" />
 
+![](https://raw.githubusercontent.com/augustovcs/augustovcs/output/snake.svg)
 
 
 
@@ -17,6 +18,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
+
 [![](https://visitcount.itsvg.in/api?id=augustovcs&icon=4&color=0)](https://visitcount.itsvg.in)
+
+###Test comp
+![](https://raw.githubusercontent.com/augustovcs/augustovcs/output/snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
