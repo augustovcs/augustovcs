@@ -2,8 +2,6 @@
 
 ![](https://raw.githubusercontent.com/augustovcs/augustovcs/output/snake.svg)
 
-
-
 # 💫 About Me:
 💡 I specialize in building robust and scalable applications using:<br>• C# & .NET Core<br>• ASP.NET & MAUI (cross-platform UI & internal tooling)<br>• PostgreSQL (database architecture & optimization)<br>• Python (automation & data manipulation)<br><br>🔧 I love working behind the scenes — crafting APIs, managing data flow, and designing solid system logic.<br><br>🚀 Currently building tools that boost productivity and bring real value to users.<br><br>🧠 Always learning. Always building. Always shipping.<br><br>📬 Let’s connect and create something meaningful!
 
@@ -14,14 +12,21 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## Github Contributions
+![](https://github-readme-activity-graph.vercel.app/graph?username=augustovcs&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=040f0f)
+
+---
+## My streak!
+![](https://streak-stats.demolab.com/?user=augustovcs&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3)
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=augustovcs&icon=4&color=0)](https://visitcount.itsvg.in)
 
-###Test comp
-![](https://raw.githubusercontent.com/augustovcs/augustovcs/output/snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
